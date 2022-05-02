@@ -5,7 +5,17 @@ A public collection of common CTF challenge techniques, divided by category and 
 
 ## Cryptography
 
+### RSA
+
+* Small Public Exponent (e=3)
+* Shared Factors
+* Weak Modulus
+
 ## Network Analysis
+
+* ICMP Tunneling
+* Message in TCP Flags
+* Message in TCP Sequence Number
 
 ## OSINT
 
