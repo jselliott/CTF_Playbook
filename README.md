@@ -9,6 +9,6 @@ A public collection of common CTF challenge techniques, divided by category and 
 
 ## OSINT
 
-## Stegonography
+## Steganography
 
 ## Web App
