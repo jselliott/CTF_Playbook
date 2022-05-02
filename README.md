@@ -16,6 +16,11 @@ A public collection of common CTF challenge techniques, divided by category and 
 * ICMP Tunneling
 * Message in TCP Flags
 * Message in TCP Sequence Number
+* HTTP Transfer
+* FTP Transfer
+* SMTP Transfer
+* SMB Transfer
+* BitTorrent Transfer
 
 ## OSINT
 
